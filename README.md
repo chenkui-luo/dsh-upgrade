@@ -110,4 +110,8 @@ node scripts\dsh-compat-check.mjs
 
 按 DSH 0.2.1-rc.2 的实际行为编写，其中不少结论来自踩坑（`SKILL.md` 第 9 节记了二十来条）。发现某条在新版本上不成立时，欢迎提 issue 或 PR。
 
-本仓库未附许可证文件；如需使用，请先与作者联系。
+## 许可证
+
+[MIT](LICENSE) © 2026 chenkui-luo
+
+随意使用、修改、分发，包括商用；保留版权声明即可。
