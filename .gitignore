@@ -1,0 +1,9 @@
+# 本地运行产物，不发布
+reports/
+switch-logs/
+*.log
+
+# 依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
